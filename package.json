@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "name": "davegreynodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yankiweiss/daveGreyNodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yankiweiss/daveGreyNodeJs/issues"
+  },
+  "homepage": "https://github.com/yankiweiss/daveGreyNodeJs#readme"
+}
